@@ -1,0 +1,749 @@
+{
+    "0": {
+        "id": "0",
+        "name": "Item 0",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "101001": {
+        "id": "101001",
+        "name": "AKM",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "101003": {
+        "id": "101003",
+        "name": "SCAR_L",
+        "color": [0, 255, 81, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "101004": {
+        "id": "101004",
+        "name": "M416",
+        "color": [0, 0, 0, 125],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [255, 165, 0, 200]
+    },
+    "101005": {
+        "id": "101005",
+        "name": "Groza",
+        "color": [0, 0, 0, 125],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [255, 165, 0, 200]
+    },
+    "101006": {
+        "id": "101006",
+        "name": "AUG_A3",
+        "color": [0, 0, 0, 125],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [255, 165, 0, 200]
+    },
+    "101007": {
+        "id": "101007",
+        "name": "QBZ",
+        "color": [0, 255, 81, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "101008": {
+        "id": "101008",
+        "name": "M762",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "101009": {
+        "id": "101009",
+        "name": "Mk47_Mutant",
+        "color": [0, 255, 81, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "101010": {
+        "id": "101010",
+        "name": "G36C",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "102001": {
+        "id": "102001",
+        "name": "UZI",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "102002": {
+        "id": "102002",
+        "name": "UMP45",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "102003": {
+        "id": "102003",
+        "name": "Vector",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "102004": {
+        "id": "102004",
+        "name": "Thompson",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "102005": {
+        "id": "102005",
+        "name": "PP19Bizon",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "103001": {
+        "id": "103001",
+        "name": "Kar98",
+        "color": [255, 255, 255, 230],
+        "fontSize": 10, 
+        "view": true,
+        "isImportant": true,
+        "bgColor": [242, 0, 46, 230]
+    },
+    "103002": {
+        "id": "103002",
+        "name": "M24",
+        "color": [255, 255, 255, 230],
+        "fontSize": 10, 
+        "view": true,
+        "isImportant": true,
+        "bgColor": [242, 0, 46, 230]
+    },
+    "103003": {
+        "id": "103003",
+        "name": "AWM",
+        "color": [255, 255, 255, 255],
+        "fontSize": 10, 
+        "view": true,
+        "isImportant": true,
+        "bgColor": [242, 0, 46, 255]
+    },
+    "103005": {
+        "id": "103005",
+        "name": "VSS",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "103006": {
+        "id": "103006",
+        "name": "Mini14",
+        "color": [255, 255, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [130, 0, 178, 150]
+    },
+    "103007": {
+        "id": "103007",
+        "name": "Mk14s",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "103008": {
+        "id": "103008",
+        "name": "Win94",
+        "color": [255, 255, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "103009": {
+        "id": "103009",
+        "name": "SLR",
+        "color": [255, 255, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [130, 0, 178, 150]
+    },
+    "103010": {
+        "id": "103010",
+        "name": "QBU",
+        "color": [0, 255, 81, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "104001": {
+        "id": "104001",
+        "name": "S686",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "104002": {
+        "id": "104002",
+        "name": "S1897",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "104003": {
+        "id": "104003",
+        "name": "S12K",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "105001": {
+        "id": "105001",
+        "name": "M249",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "105002": {
+        "id": "105002",
+        "name": "DP",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "106001": {
+        "id": "106001",
+        "name": "P92",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "106002": {
+        "id": "106002",
+        "name": "P1911",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "106003": {
+        "id": "106003",
+        "name": "R1895",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "106004": {
+        "id": "106004",
+        "name": "P18C",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "106005": {
+        "id": "106005",
+        "name": "R45",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "106006": {
+        "id": "106006",
+        "name": "Kısa Çifte",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "106008": {
+        "id": "106008",
+        "name": "Skorpion",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "106010": {
+        "id": "106010",
+        "name": "Desert Eagle",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "107001": {
+        "id": "107001",
+        "name": "Arbalet",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "108001": {
+        "id": "108001",
+        "name": "Pala",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "108002": {
+        "id": "108002",
+        "name": "Levye",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "108003": {
+        "id": "108003",
+        "name": "Orak",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "108004": {
+        "id": "108004",
+        "name": "Tava",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "201001": {
+        "id": "201001",
+        "name": "Tıkaç",
+        "color": [255, 255, 255, 100],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "201012": {
+        "id": "201012",
+        "name": "Duckbill (Pompalı)",
+        "color": [255, 255, 255, 100],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "202001": {
+        "id": "202001",
+        "name": "Açılı El Tutamaği",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "202002": {
+        "id": "202002",
+        "name": "Dikey Tutamaç",
+        "color": [0, 255, 81, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 200]
+    },
+    "202004": {
+        "id": "202004",
+        "name": "Hafif Tutamak",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "202005": {
+        "id": "202005",
+        "name": "Yarım Tutamak",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "202006": {
+        "id": "202006",
+        "name": "Başparmaklık",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "202007": {
+        "id": "202007",
+        "name": "Silah Lazeri",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "203001": {
+        "id": "203001",
+        "name": "Lazer",
+        "color": [253, 199, 83, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "203002": {
+        "id": "203002",
+        "name": "Holo",
+        "color": [253, 199, 83, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "203003": {
+        "id": "203003",
+        "name": "x2 Scope",
+        "color": [0, 174, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "203004": {
+        "id": "203004",
+        "name": "x4 Scope",
+        "color": [0, 174, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "203005": {
+        "id": "203005",
+        "name": "x8 Scope",
+        "color": [255, 0, 86, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "203014": {
+        "id": "203014",
+        "name": "x3 Scope",
+        "color": [0, 174, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "203015": {
+        "id": "203015",
+        "name": "x6 Scope",
+        "color": [255, 0, 86, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "205001": {
+        "id": "205001",
+        "name": "Dipçik (micro UZI)",
+        "color": [255, 255, 255, 100],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "205002": {
+        "id": "205002",
+        "name": "Taktik Dipçik (M416)",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "205003": {
+        "id": "205003",
+        "name": "Yanaklık (K. Nişancı)",
+        "color": [0, 255, 81, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "205004": {
+        "id": "205004",
+        "name": "Sadak (Arbalet)",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "306001": {
+        "id": "306001",
+        "name": "AWM Ammo",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "307001": {
+        "id": "307001",
+        "name": "Crossbow Ammo",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "403045": {
+        "id": "403045",
+        "name": "Avcı Kamuflajı",
+        "color": [29, 20, 8, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [152, 141, 59, 200]
+    },
+    "403187": {
+        "id": "403187",
+        "name": "Avcı Kamuflajı (Çöl)",
+        "color": [138, 71, 12, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [214, 180, 130, 220]
+    },
+    "403989": {
+        "id": "403989",
+        "name": "Avcı Kamuflajı (Kar)",
+        "color": [0, 0, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [255, 255, 255, 150]
+    },
+    "403990": {
+        "id": "403990",
+        "name": "Avcı Kamuflajı (Kahve Rengi)",
+        "color": [138, 71, 12, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [214, 180, 130, 220]
+    },
+    "501001": {
+        "id": "501001",
+        "name": "Sırt Çantası 1",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "501002": {
+        "id": "501002",
+        "name": "Sırt Çantası 2",
+        "color": [175, 64, 241, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "501006": {
+        "id": "501006",
+        "name": "Sırt Çantası 3",
+        "color": [0, 0, 0, 125],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [255, 165, 0, 200]
+    },
+    "502001": {
+        "id": "502001",
+        "name": "Kask 1",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 200]
+    },
+    "502002": {
+        "id": "502002",
+        "name": "Kask 2",
+        "color": [175, 64, 241, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "502003": {
+        "id": "502003",
+        "name": "Kask 3",
+        "color": [0, 0, 0, 200],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [255, 165, 0, 200]
+    },
+    "503001": {
+        "id": "503001",
+        "name": "Yelek 1",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 200]
+    },
+    "503002": {
+        "id": "503002",
+        "name": "Yelek 2",
+        "color": [175, 64, 241, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "503003": {
+        "id": "503003",
+        "name": "Yelek 3",
+        "color": [0, 0, 0, 125],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [255, 165, 0, 200]
+    },
+    "601001": {
+        "id": "601001",
+        "name": "Enerji İçeceği",
+        "color": [250, 165, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "601002": {
+        "id": "601002",
+        "name": "Adrenalin Şırıngası",
+        "color": [250, 165, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "601003": {
+        "id": "601003",
+        "name": "Ağrı Kesici",
+        "color": [250, 165, 255, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "602004": {
+        "id": "602004",
+        "name": "Frag_Grenade",
+        "color": [255, 165, 0, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    },
+    "602005": {
+        "id": "602005",
+        "name": "Apple",
+        "color": [255, 255, 255, 150],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 100]
+    },
+    "603001": {
+        "id": "603001",
+        "name": "Yakıt Bidounu",
+        "color": [255, 12, 0, 120],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 50]
+    },
+    "000000": {
+        "id": "000000",
+        "name": "SKS",
+        "color": [160, 26, 240, 255],
+        "fontSize": 10,
+        "view": true,
+        "isImportant": true,
+        "bgColor": [0, 0, 0, 125]
+    }
+}
