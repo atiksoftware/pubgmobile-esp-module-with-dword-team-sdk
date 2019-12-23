@@ -11,3 +11,5 @@ copy ESPX_Items.json,ESPXCFG.xml,DLSP_ESPX.dll files to in "C:\Users\{YourUserna
 You can find cheat app from this link  
 https://memoryhackers.org/konular/pubg-mobile-dword-vip-r3-beta-v2-7-december-aralik-2019.70425/  
 if link will change or closed, you can find link right side bar in website of https://memoryhackers.org
+
+**But you not need this project. it already in this cheat as ESPX!**
